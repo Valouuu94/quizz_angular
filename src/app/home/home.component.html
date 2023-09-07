@@ -1,0 +1,14 @@
+<section class="quizz">
+    <h2 class="Title">Voici le meilleur quizz sur le meilleur manga, One Piece !</h2>
+    <section class="home-questions-answers">
+        <h4 class="question">{{ questions[currentQuestionIndex].question }}</h4>
+        <ul class="answers">
+            <li *ngFor="let answer of questions[currentQuestionIndex].answers; let answerIndex = index">
+                <button [ngClass]="{'correct-answer': correctAnswers.includes(answerIndex), 'selected': selectedAnswerIndex === answerIndex}" (click)="selectAnswer(answerIndex)">
+            {{ answer }}
+          </button>
+            </li>
+        </ul>
+    </section>
+    <button (click)="nextQuestion()">Question suivante</button>
+</section>

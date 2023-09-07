@@ -1,0 +1,21 @@
+.quizz {
+    margin-top: 10%;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ol {
+    list-style-type: none;
+}
+
+li {
+    list-style: none;
+}
+
+.correct-answer {
+    background-color: green;
+    color: white;
+}

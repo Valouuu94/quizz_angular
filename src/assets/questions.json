@@ -1,0 +1,103 @@
+{
+    "questions": [{
+            "question": "Qui est le protagoniste principal de One Piece ?",
+            "answers": [
+                "Zoro",
+                "Luffy",
+                "Nami",
+                "Sanji"
+            ],
+            "correctAnswer": "Luffy"
+        },
+        {
+            "question": "Quel fruit du démon a mangé Luffy pour obtenir ses pouvoirs élastiques ?",
+            "answers": [
+                "Fruit du démon Gomu Gomu",
+                "Fruit du démon Hito Hito",
+                "Fruit du démon Mera Mera",
+                "Fruit du démon Hana Hana"
+            ],
+            "correctAnswer": "Fruit du démon Gomu Gomu"
+        },
+        {
+            "question": "Quel est le nom du bateau des protagonistes dans One Piece ?",
+            "answers": [
+                "Sunny Go",
+                "Going Merry",
+                "Thousand Sunny",
+                "Black Pearl"
+            ],
+            "correctAnswer": "Thousand Sunny"
+        },
+        {
+            "question": "Qui est le célèbre bretteur qui utilise trois sabres dans One Piece ?",
+            "answers": [
+                "Zoro",
+                "Luffy",
+                "Usopp",
+                "Chopper"
+            ],
+            "correctAnswer": "Zoro"
+        },
+        {
+            "question": "Quelle est la prime actuelle de Monkey D. Luffy ?",
+            "answers": [
+                "100 000 Berrys",
+                "1 million de Berrys",
+                "1 milliard de Berrys",
+                "3 milliard de Berrys"
+            ],
+            "correctAnswer": "3 milliard de Berrys"
+        },
+        {
+            "question": "Quelle organisation se bat contre l'équipage de Luffy à plusieurs reprises au cours de la série ?",
+            "answers": [
+                "La Marine",
+                "Les Pirates de Barbe Blanche",
+                "Les Révolutionnaires",
+                "Les Pirates du Chapeau de Paille"
+            ],
+            "correctAnswer": "La Marine"
+        },
+        {
+            "question": "Quelle est la spécialité culinaire de Sanji ?",
+            "answers": [
+                "Sushi",
+                "Okonomiyaki",
+                "Ramen",
+                "Crevettes"
+            ],
+            "correctAnswer": "Crevettes"
+        },
+        {
+            "question": "Quel est le rêve de Nico Robin dans One Piece ?",
+            "answers": [
+                "Devenir la pirate la plus puissante du monde",
+                "Devenir la meilleure navigatrice",
+                "Trouver le One Piece",
+                "Découvrir la véritable histoire du monde"
+            ],
+            "correctAnswer": "Découvrir la véritable histoire du monde"
+        },
+        {
+            "question": "Qui est le médecin de l'équipage de Luffy ?",
+            "answers": [
+                "Franky",
+                "Brook",
+                "Chopper",
+                "Robin"
+            ],
+            "correctAnswer": "Chopper"
+        },
+        {
+            "question": "Quelle est la particularité du bateau Thousand Sunny par rapport à Going Merry ?",
+            "answers": [
+                "Il peut voler",
+                "Il est plus rapide",
+                "Il a une coupe franche sur la proue",
+                "Il parle"
+            ],
+            "correctAnswer": "Il a une coupe franche sur la proue"
+        }
+    ]
+}
